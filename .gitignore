@@ -1,0 +1,13 @@
+examples/*
+.idea/*
+ctb51/*
+*/__pycache__/*
+experiments/*
+ch-en/*
+ch-en-model/*
+new-parser-model/*
+parser-model/*
+emb/*
+debug*
+ch-action/*
+*.in
